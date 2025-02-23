@@ -9,3 +9,8 @@ curl -X POST https://test-delete-later-37120935558.us-central1.run.app \
         "name": "Developer"
         }'
 ```
+
+# Authenticate for invocation
+
+https://cloud.google.com/functions/docs/securing/authenticating#id-tokens
+
