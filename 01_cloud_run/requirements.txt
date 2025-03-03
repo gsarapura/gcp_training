@@ -1,2 +1,5 @@
-google-auth
+# google-auth
+# requests
+google-auth 
+pyjwt 
 requests

@@ -14,3 +14,9 @@ curl -X POST https://test-delete-later-37120935558.us-central1.run.app \
 
 https://cloud.google.com/functions/docs/securing/authenticating#id-tokens
 
+
+# Generate tokens manually
+https://cloud.google.com/functions/docs/securing/authenticating#generate_tokens_manually
+
+## Exchange a self-signed JWT for a Google-signed ID token
+https://cloud.google.com/functions/docs/securing/authenticating#exchange_a_self-signed_jwt_for_a_google-signed_id_token

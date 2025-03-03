@@ -14,9 +14,12 @@ gcloud auth activate-service-account
 # List
 gcloud config list
 gcloud auth list
+gcloud projects list
 
 # Remove 
+gcloud config unset $CONFIG_NAME
 gcloud auth revoke
+gcloud projects delete $PROJECT_NAME 
 
 # Switch different accounts
 gcloud config set account $ACCOUNT
